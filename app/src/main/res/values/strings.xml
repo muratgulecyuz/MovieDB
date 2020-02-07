@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieDB</string>
+    <string name="top_rated_movies">TOP RATED MOVIES</string>
+    <string name="now_playing">Now Playing</string>
+    <string name="popular">Popular</string>
+    <string name="tv">TV</string>
+    <string name="profile">Profile</string>
+    <string name="appLogist">AppLogist</string>
+</resources>
